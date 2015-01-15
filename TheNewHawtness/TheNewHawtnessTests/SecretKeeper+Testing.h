@@ -9,14 +9,9 @@
 @import Foundation;
 #import <TheNewHawtness/TheNewHawtness-Swift.h>
 
-#ifndef SecretKeeper_Testing_h
-#define SecretKeeper_Testing_h
-
 @interface SecretKeeper (Testing)
 
 @property (nonatomic, copy) NSString *secretProperty;
 - (NSString *) secretMessage;
 
 @end
-
-#endif

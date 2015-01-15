@@ -8,7 +8,7 @@
 
 import Foundation
 
-public class SecretKeeper {
+public class SecretKeeper : NSObject {
     internal var secretProperty : String {
         return "Where'd all the semicolons go?"
     }

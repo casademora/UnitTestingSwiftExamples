@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>TheNewHatness.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>23EFCD0A1A67325C0087DA20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>23EFCD1F1A67325C0087DA20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>23EFCD701A673A7B0087DA20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>23EFCD7A1A673A7B0087DA20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
